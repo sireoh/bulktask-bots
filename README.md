@@ -1,5 +1,3 @@
-README
-
 yt-bulk-like-remover (Credits)
 https://webapps.stackexchange.com/users/235148/damian
 
