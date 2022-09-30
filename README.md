@@ -1,4 +1,4 @@
-yt-bulk-like-remover (Credits)
+yt-bulk-like-remover (Credits || Damian)
 https://webapps.stackexchange.com/users/235148/damian
 
 yt-bulk-sub-remover (Credits || Anna Middleton)
